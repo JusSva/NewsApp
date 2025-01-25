@@ -1,0 +1,20 @@
+.card {
+  width: 30%;
+  height: 200px;
+  margin-bottom: 250px;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+}
+
+.output {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.info {
+  display: flex;
+  justify-content: space-between;
+}
